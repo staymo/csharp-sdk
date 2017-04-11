@@ -3,3 +3,5 @@
 ################################################################################
 
 /Qiniu.Test/obj/Debug
+/Qiniu/Qiniu.csproj.user
+/build/csharp_sdk_latest/csharp_sdk_latest

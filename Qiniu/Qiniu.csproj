@@ -72,6 +72,7 @@
     <Compile Include="Storage\Model\BucketsResult.cs" />
     <Compile Include="Storage\Model\DomainsResult.cs" />
     <Compile Include="Storage\Model\FetchResult.cs" />
+    <Compile Include="Storage\Model\ListFilesResult.cs" />
     <Compile Include="Storage\Model\StatResult.cs" />
     <Compile Include="Storage\Persistent\KeyGenerator.cs" />
     <Compile Include="Storage\Persistent\ResumeRecord.cs" />

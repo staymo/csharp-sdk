@@ -1,0 +1,5 @@
+I:\Code4\Qiniu\csharp-sdk\Qiniu\obj\Debug\Qiniu.csprojResolveAssemblyReference.cache
+I:\Code4\Qiniu\csharp-sdk\bin\Qiniu.dll
+I:\Code4\Qiniu\csharp-sdk\bin\Qiniu.pdb
+I:\Code4\Qiniu\csharp-sdk\Qiniu\obj\Debug\Qiniu.dll
+I:\Code4\Qiniu\csharp-sdk\Qiniu\obj\Debug\Qiniu.pdb
